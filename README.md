@@ -70,7 +70,6 @@ Key Visuals:
 - Cash Reserve Growth Analysis
 
 ---
-
 ### 2️⃣ Annual Financial Performance Analysis
 
 Analyzes yearly profitability and operational efficiency.
