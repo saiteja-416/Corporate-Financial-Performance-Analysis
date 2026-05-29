@@ -157,41 +157,12 @@ Key Visuals:
 
 ---
 
-## 📷 Dashboard Screenshots
-
-### Home Page
-![Home Page](images/home_page.png)
-
-### Company-Level Financial Insights
-![Company Insights](images/company_level_financial_insights.png)
-
-### Annual Financial Performance Analysis
-![Annual Analysis](images/annual_financial_performance_analysis.png)
-
-### Cash Flow Analysis Dashboard
-![Cash Flow Analysis](images/cash_flow_analysis_dashboard.png)
-
-### Balance Sheet Performance Analysis
-![Balance Sheet Analysis](images/balance_sheet_performance_analysis.png)
-
-### Comparative KPI Analysis
-![Comparative Analysis](images/comparative_kpi_analysis.png)
-
----
-
 ## 📁 Repository Structure
 
 ```text
 📦 Corporate-Financial-Performance-Analysis
  ┣ 📊 Corporate_Financial_Performance.pbix
  ┣ 📄 Financial_Dataset.xlsx
- ┣ 📁 Images
- ┃ ┣ home_page.png
- ┃ ┣ company_level_financial_insights.png
- ┃ ┣ annual_financial_performance_analysis.png
- ┃ ┣ cash_flow_analysis_dashboard.png
- ┃ ┣ balance_sheet_performance_analysis.png
- ┃ ┗ comparative_kpi_analysis.png
  ┗ 📘 README.md
 ```
 
